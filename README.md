@@ -6,7 +6,7 @@ stake them, and earn a second reward token that accrues continuously while
 staked. This is the Level 4 MVP, extended for Level 5 (Preprod / feedback
 loop) submission.
 
-**Live demo:** https://stakevault-preprod.vercel.app
+**Live demo:** https://stakevault-lac.vercel.app/
 **Contracts (Sepolia):**
   - StakingToken (SVT): https://sepolia.etherscan.io/address/0x71C7656EC7ab88b098defB751B7401B5f6d8976
   - RewardsToken (SVR): https://sepolia.etherscan.io/address/0x5FbDB2315678afecb367f032d93F642f64180aa
