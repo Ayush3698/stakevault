@@ -1,0 +1,5 @@
+# One wallet address per line. Copy this file to testers.txt and fill in
+# real Preprod user addresses before running `npm run faucet:mint`.
+# Lines starting with # are ignored.
+0x0000000000000000000000000000000000000001
+0x0000000000000000000000000000000000000002

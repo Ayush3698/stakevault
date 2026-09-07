@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+*.log
+
+# Hardhat
+contracts/cache/
+contracts/artifacts/
+contracts/deployment.json
+contracts/scripts/testers.txt
+
+# OS
+.DS_Store
